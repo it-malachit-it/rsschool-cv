@@ -1,4 +1,4 @@
-# summary-rsschool
+# Summary
 
 # Ilya Naumenko
 
